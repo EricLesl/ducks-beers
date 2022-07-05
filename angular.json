@@ -3,7 +3,7 @@
   "version": 1,
   "newProjectRoot": "projects",
   "projects": {
-    "merchants-ball-beers": {
+    "ducks-beers": {
       "projectType": "application",
       "schematics": {
         "@schematics/angular:application": {
@@ -17,7 +17,7 @@
         "build": {
           "builder": "@angular-devkit/build-angular:browser",
           "options": {
-            "outputPath": "dist/merchants-ball-beers",
+            "outputPath": "dist/ducks-beers",
             "index": "src/index.html",
             "main": "src/main.ts",
             "polyfills": "src/polyfills.ts",
@@ -72,10 +72,10 @@
           "builder": "@angular-devkit/build-angular:dev-server",
           "configurations": {
             "production": {
-              "browserTarget": "merchants-ball-beers:build:production"
+              "browserTarget": "ducks-beers:build:production"
             },
             "development": {
-              "browserTarget": "merchants-ball-beers:build:development"
+              "browserTarget": "ducks-beers:build:development"
             }
           },
           "defaultConfiguration": "development"
@@ -83,7 +83,7 @@
         "extract-i18n": {
           "builder": "@angular-devkit/build-angular:extract-i18n",
           "options": {
-            "browserTarget": "merchants-ball-beers:build"
+            "browserTarget": "ducks-beers:build"
           }
         },
         "test": {
@@ -108,5 +108,5 @@
       }
     }
   },
-  "defaultProject": "merchants-ball-beers"
+  "defaultProject": "ducks-beers"
 }

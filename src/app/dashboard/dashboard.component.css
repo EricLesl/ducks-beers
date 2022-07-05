@@ -2,7 +2,7 @@ h1{
   text-align: center;
   font-family: "Brush Script MT";
   font-size: 3em;
-  color: gold;
+  color: #00685E;
   margin-top: 0px!important;
   margin-bottom: 0px!important;
 }
@@ -30,7 +30,7 @@ p{
 }
 
 .header{
-  background-color: darkgreen;
+  background-color: #532A44;
   background-image: url("https://www.transparenttextures.com/patterns/binding-light.png");
 }
 
@@ -47,8 +47,8 @@ p{
   margin-bottom: .5vh;
   display: block;
   margin: auto;
-  background-color: darkgreen;
-  color: gold;
+  background-color: #532A44;
+  color: #00685E;
 }
 
 .menuOption{
@@ -56,8 +56,8 @@ p{
   height: auto;
   padding-top: 1em;
   padding-bottom: 1em;
-  background-color: darkgreen;
-  color: gold;
+  background-color: #532A44;
+  color: #00685E;
   border-radius: 5px;
   text-align: center;
   font-size: large;

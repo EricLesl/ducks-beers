@@ -25,31 +25,31 @@ export class ExpenseFormComponent implements OnInit {
   }
 
   submit() {
-    if (this.description == null || this.description == "") {
-      alert("You need to enter a description of what you bought.");
-      return;
-    }
-    if (this.serialNums == "") {
-      alert("Enter the serial numbers of the bills you used to make this purchase, separated by commas.");
-      return;
-    }
-    if (this.amount < 1) {
-      alert("Invalid amount entered. Enter how much money you spent!");
-      return;
-    }
+    // if (this.description == null || this.description == "") {
+    //   alert("You need to enter a description of what you bought.");
+    //   return;
+    // }
+    // if (this.serialNums == "") {
+    //   alert("Enter the serial numbers of the bills you used to make this purchase, separated by commas.");
+    //   return;
+    // }
+    // if (this.amount < 1) {
+    //   alert("Invalid amount entered. Enter how much money you spent!");
+    //   return;
+    // }
 
-    let serialArr = this.serialNums.split(",");
+    // let serialArr = this.serialNums.split(",");
 
-    serialArr.forEach(serial => {
-      if (serial != "") {
-        let bill = {
-          userid: this.
-        } as IBill;
-        this.firestore.collection('cards').doc(card.cardid).update(card).then(d => {
-          alert("Beer has been chalked!");
-          this.goBack();
-        })
-      }
-    });
+    // serialArr.forEach(serial => {
+    //   if (serial != "") {
+    //     let bill = {
+    //       userid: this.
+    //     } as IBill;
+    //     this.firestore.collection('cards').doc(card.cardid).update(card).then(d => {
+    //       alert("Beer has been chalked!");
+    //       this.goBack();
+    //     })
+    //   }
+    // });
   }
 }

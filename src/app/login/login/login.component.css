@@ -2,13 +2,13 @@ h1{
   text-align: center;
   font-family: "Brush Script MT";
   font-size: 3em;
-  color: gold;
+  color: #00685E;
   margin-top: 0px!important;
   margin-bottom: 0px!important;
 }
 
 .header{
-  background-color: darkgreen;
+  background-color: #532A44;
   background-image: url("https://www.transparenttextures.com/patterns/binding-light.png");
 }
 
@@ -43,8 +43,8 @@ h1{
 }
 
 .loginBtn{
-  color: gold;
-  background-color: darkgreen;
+  color: white;
+  background-color: #532A44;
   margin: auto;
   display: block;
 }
