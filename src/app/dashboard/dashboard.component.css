@@ -31,7 +31,6 @@ p{
 
 .header{
   background-color: #532A44;
-  background-image: url("https://www.transparenttextures.com/patterns/binding-light.png");
 }
 
 .footer{
@@ -48,7 +47,7 @@ p{
   display: block;
   margin: auto;
   background-color: #532A44;
-  color: #00685E;
+  color: white;
 }
 
 .menuOption{
@@ -57,7 +56,7 @@ p{
   padding-top: 1em;
   padding-bottom: 1em;
   background-color: #532A44;
-  color: #00685E;
+  color: white;
   border-radius: 5px;
   text-align: center;
   font-size: large;

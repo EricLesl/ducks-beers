@@ -5,13 +5,12 @@
 export const environment = {
   production: false,
   firebase: {
-    apiKey: "AIzaSyAZ5j_ogIZ7ehj3DtbFBaSSw329QS1YGys",
-    authDomain: "merchants-beers.firebaseapp.com",
-    databaseURL: "https://merchants-beers-default-rtdb.firebaseio.com",
-    projectId: "merchants-beers",
-    storageBucket: "merchants-beers.appspot.com",
-    messagingSenderId: "716223467721",
-    appId: "1:716223467721:web:4e42974925aa2ba4b27d18",
-    measurementId: "G-KBBTRDX6MN"
+    apiKey: "AIzaSyDQtEvB3xVzS0u7xJ9lbLgA3TIi9zAV7sw",
+    authDomain: "ducks-beers.firebaseapp.com",
+    projectId: "ducks-beers",
+    storageBucket: "ducks-beers.appspot.com",
+    messagingSenderId: "586390179525",
+    appId: "1:586390179525:web:80eee914164cb1bc2f6aac",
+    measurementId: "G-4PH0XQC7XP"
   }
 };
