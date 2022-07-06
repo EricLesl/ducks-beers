@@ -1,0 +1,85 @@
+{
+  "configVersion": 1,
+  "timestamp": 1657075778083,
+  "index": "https://ericlesl.github.io/ducks-beers/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "https://ericlesl.github.io/ducks-beers/favicon.ico",
+        "https://ericlesl.github.io/ducks-beers/index.html",
+        "https://ericlesl.github.io/ducks-beers/main.63b0b0f6875b9525.js",
+        "https://ericlesl.github.io/ducks-beers/manifest.webmanifest",
+        "https://ericlesl.github.io/ducks-beers/polyfills.06af909929f53307.js",
+        "https://ericlesl.github.io/ducks-beers/runtime.48e087e5abd1fc7a.js",
+        "https://ericlesl.github.io/ducks-beers/styles.43de8ce5ba9122d4.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "https://ericlesl.github.io/ducks-beers/assets/icons/icon-128x128.png",
+        "https://ericlesl.github.io/ducks-beers/assets/icons/icon-144x144.png",
+        "https://ericlesl.github.io/ducks-beers/assets/icons/icon-152x152.png",
+        "https://ericlesl.github.io/ducks-beers/assets/icons/icon-192x192.png",
+        "https://ericlesl.github.io/ducks-beers/assets/icons/icon-384x384.png",
+        "https://ericlesl.github.io/ducks-beers/assets/icons/icon-48x48.png",
+        "https://ericlesl.github.io/ducks-beers/assets/icons/icon-512x512.png",
+        "https://ericlesl.github.io/ducks-beers/assets/icons/icon-72x72.png",
+        "https://ericlesl.github.io/ducks-beers/assets/icons/icon-96x96.png",
+        "https://ericlesl.github.io/ducks-beers/assets/logo.jpg"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "https://ericlesl.github.io/ducks-beers/assets/icons/icon-128x128.png": "2036700fb10f17f63baefbaadfcde3901b4515c0",
+    "https://ericlesl.github.io/ducks-beers/assets/icons/icon-144x144.png": "71e0fed1b46b31dea81aa2da478d511aebd3bf80",
+    "https://ericlesl.github.io/ducks-beers/assets/icons/icon-152x152.png": "d22cf99dce046584b304af062b27a82cd54fae43",
+    "https://ericlesl.github.io/ducks-beers/assets/icons/icon-192x192.png": "a249de28d2762dc08dcd00cddff4509cbf4d8051",
+    "https://ericlesl.github.io/ducks-beers/assets/icons/icon-384x384.png": "fb04578c96639d1e1c0ba362052e013b2f7a9578",
+    "https://ericlesl.github.io/ducks-beers/assets/icons/icon-48x48.png": "d8e4bcd2bbe941497346cbbca9437fc6a3b17144",
+    "https://ericlesl.github.io/ducks-beers/assets/icons/icon-512x512.png": "7a74ba2584ecefa2ce980054b8cc34c5bc413fcb",
+    "https://ericlesl.github.io/ducks-beers/assets/icons/icon-72x72.png": "d00f5a141c76bad50f7a0662bff01ed1eacddfe3",
+    "https://ericlesl.github.io/ducks-beers/assets/icons/icon-96x96.png": "06a812aadfd4a9e743ae50c5d45f329a7e02ef76",
+    "https://ericlesl.github.io/ducks-beers/assets/logo.jpg": "2b00f658439984af1f1af50ac9ea74101d2611b2",
+    "https://ericlesl.github.io/ducks-beers/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "https://ericlesl.github.io/ducks-beers/index.html": "636993f6c2ddc2317126343ad399527c970e178c",
+    "https://ericlesl.github.io/ducks-beers/main.63b0b0f6875b9525.js": "3db4a286ef813f4e14815b625116e4a98a7166cc",
+    "https://ericlesl.github.io/ducks-beers/manifest.webmanifest": "5b807733bf614fe4e0aa6d0bc0206195342829eb",
+    "https://ericlesl.github.io/ducks-beers/polyfills.06af909929f53307.js": "fbcd360b0d00cb165cf5f0a3e89546ceb27584b6",
+    "https://ericlesl.github.io/ducks-beers/runtime.48e087e5abd1fc7a.js": "7afca6c3265cf8aadb30f75ffe5754e7982122c0",
+    "https://ericlesl.github.io/ducks-beers/styles.43de8ce5ba9122d4.css": "1d4339e93c694b19a485c4c34c72f8830e5f30b0"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
