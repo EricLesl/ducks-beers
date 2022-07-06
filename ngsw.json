@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1657075778083,
+  "timestamp": 1657075979413,
   "index": "https://ericlesl.github.io/ducks-beers/index.html",
   "assetGroups": [
     {
@@ -56,7 +56,7 @@
     "https://ericlesl.github.io/ducks-beers/assets/icons/icon-96x96.png": "06a812aadfd4a9e743ae50c5d45f329a7e02ef76",
     "https://ericlesl.github.io/ducks-beers/assets/logo.jpg": "2b00f658439984af1f1af50ac9ea74101d2611b2",
     "https://ericlesl.github.io/ducks-beers/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "https://ericlesl.github.io/ducks-beers/index.html": "636993f6c2ddc2317126343ad399527c970e178c",
+    "https://ericlesl.github.io/ducks-beers/index.html": "60e848e3bbcee1e4b68c06eba4049de554ed96f1",
     "https://ericlesl.github.io/ducks-beers/main.63b0b0f6875b9525.js": "3db4a286ef813f4e14815b625116e4a98a7166cc",
     "https://ericlesl.github.io/ducks-beers/manifest.webmanifest": "5b807733bf614fe4e0aa6d0bc0206195342829eb",
     "https://ericlesl.github.io/ducks-beers/polyfills.06af909929f53307.js": "fbcd360b0d00cb165cf5f0a3e89546ceb27584b6",
